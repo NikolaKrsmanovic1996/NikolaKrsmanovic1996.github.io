@@ -2723,6 +2723,11 @@ input, select, textarea {
 					padding-top: 0;
 				}
 
+
+				div.align-center {
+					text-align: center;
+				  }
+
 		ul.actions.fit {
 			width: calc(100% + 1rem);
 		}
